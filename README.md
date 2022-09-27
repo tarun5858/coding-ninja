@@ -1,2 +1,0 @@
-# coding-ninja
-coding ninja
